@@ -2,6 +2,10 @@
 
 M'apassiona la tecnologia, dibuixar i els videojocs.
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=8800ff&center=true&vCenter=true&width=600&lines=Intentant+sempre+fer+les+coses+millor!!!;Millorant+lent+pero+segur;Amb+ganes+de+compartir+coneixements;Sempre+optimista!!!!" alt="NO FUNCIONAA" />
+</p>
+
 ## 🤖 Qui soc?
 
 Em dic **Max Cuní Momblant** i m'agrada explorar noves idees, experimentar amb la tecnologia i crear coses pel meu compte.
