@@ -31,7 +31,7 @@ M'agrada experimentar i posar a prova les meves habilitats a través de projecte
 - Creació d'un joc experimental amb Roblox Studio.
 - Desenvolupament de petits jocs amb eines com Julian's Editor.
 <p align="center">
-<img src="Images/sc-fnaf.png" width="200"> <img src="Images/sc-cc.png" width="200"> <img src="Images/sc-late.png" width="200">
+<img src="Images/sc-fnaf.png" width="250"> <img src="Images/sc-cc.png" width="250"> <img src="Images/sc-late.png" width="250">
 </p>
 <p align="center">
 Dos jocs modificats per mi i una creació original meva feta a Julian's Editor!
