@@ -18,10 +18,10 @@ Actualment estic estudiant un cicle de **Sistemes Microinformàtics i Xarxes (SM
 
 Conec diferents llenguatges i formats que utilitzo per aprendre i desenvolupar petits projectes:
 
-| **Web** | `HTML` |
-|---|---|
-| **Scripting** | `Bash` · `Lua (bàsic)` |
-| **Altres** | `Markdown` · `JSON` |
+| **Web** | `HTML` | Elevat |
+|:---|:---:|---:|
+| **Scripting** | `Bash` · `Lua` | Bàsic |
+| **Altres** | `Markdown` · `JSON` | Experimentant |
 
 ## 🚀 Projectes i pràctiques
 
