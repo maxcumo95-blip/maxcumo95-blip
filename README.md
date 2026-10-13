@@ -15,7 +15,12 @@ També
 
 ### Els meus projectes o pràctiques.
 
-H
+Pel meu compte he realitzat algunes activitats per practicar i posar a prova les meves capacitats, com ara:
+- Modificar multiples jocs
+- Crear un joc experimental amb Roblox Studio
+- Crear jocs amb aplicacions senzilles com Julian's Editor
+
+HAURIA DE POSAR IMATGES D'EXEMPLES AQUI WOWOOWOWOWOOW
 
 ### Interesses personals i objectius professionals.
 
