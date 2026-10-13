@@ -34,7 +34,7 @@ M'agrada inventar coses i compartir-les amb els altres. El meu objectiu és **cr
 
 ### Informació de contacte i enllaços rellevants.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/posar-usuari)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxcumo95-blip)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@posar-canal)
-
+ 
 **Correu de contacte:** [maxcumo.95@gmail.com](mailto:maxcumo.95@gmail.com)
