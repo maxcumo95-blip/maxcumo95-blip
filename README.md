@@ -19,7 +19,7 @@ Actualment estic estudiant un cicle de **Sistemes Microinformàtics i Xarxes (SM
 Conec diferents llenguatges i formats que utilitzo per aprendre i desenvolupar petits projectes:
 
 | **Web** | `HTML` |
-|:---|:---|
+|---|---|
 | **Scripting** | `Bash` · `Lua (bàsic)` |
 | **Altres** | `Markdown` · `JSON` |
 
@@ -30,8 +30,10 @@ M'agrada experimentar i posar a prova les meves habilitats a través de projecte
 - Modificació de fitxers i continguts de videojocs.
 - Creació d'un joc experimental amb Roblox Studio.
 - Desenvolupament de petits jocs amb eines com Julian's Editor.
-
-HAURIA DE POSAR IMATGES D'EXEMPLES AQUI WOWOOWOWOWOOW
+<p align="center">
+<img src="Images/sc-fnaf.png" width="330"> <img src="Images/sc-cc.png" width="330"> <img src="Images/sc-late.png" width="330">
+Dos jocs modificats per mi i una creació original meva feta a Julian's Editor!
+</p>
 
 ## 🎯 Interessos i objectius professionals
 
